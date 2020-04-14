@@ -1,0 +1,23 @@
+{
+  "name": "tom-CP02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahikatea-2020/tom-CP02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kahikatea-2020/tom-CP02/issues"
+  },
+  "homepage": "https://github.com/kahikatea-2020/tom-CP02#readme",
+  "dependencies": {
+    "node": "^13.12.0"
+  }
+}
